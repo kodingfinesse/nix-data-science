@@ -1,0 +1,30 @@
+{...}: {
+  imports = [
+    ./avahi
+    ./clamav
+    ./clickhouse
+    ./colord
+    ./dnscrypt-proxy2
+    ./earlyoom
+    ./espanso
+    ./fstrim
+    ./grafana
+    ./hdapsd
+    ./jupyter
+    ./metabase
+    ./mongodb
+    ./mysql
+    ./openssh
+    ./pipewire
+    ./postgresql
+    ./power-profiles
+    ./printing
+    ./redis
+    ./syncthing
+    ./thermald
+    ./tlp
+    ./udev
+    ./udisks2
+    ./xserver
+  ];
+}
